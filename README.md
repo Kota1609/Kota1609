@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srichandan Kota
 
-## 🌟 Check Out My Portfolio for my Live Projects: [srichandan-kota.vercel.app](https://srichandan-kota.vercel.app/)
+## 🌟 Check Out My Portfolio for my LIVE Projects: [srichandan-kota.vercel.app](https://srichandan-kota.vercel.app/)
 
 ## 🚀 Full Stack Engineer | AI Engineer | Cloud Architect
 
