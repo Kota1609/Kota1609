@@ -26,21 +26,3 @@ Real-time UNT class availability tracker with AI Course ChatBot
 ### [Gen AI UNT](https://github.com/Kota1609/RAG-With-AWS-Lambda-ECR-Docker-Langchain-Huggingface)
 UNT Gen AI application implementation using AWS, ECR, Docker, Langchain, and Huggingface
 - Python, AWS, Docker, Langchain, Huggingface, Llama, OpenAI
-
-## 📫 Let's Connect!
-
-- **Portfolio:** [srichandan-kota.vercel.app](https://srichandan-kota.vercel.app/)
-- **Linkedin:** [srichandan-kota](https://www.linkedin.com/in/kota-srichandan/)
-- **Email:** kotasc18@gmail.com
-- **Phone:** (940) 843-8548
-- **Location:** Anywhere in the USA
-
-## 🔍 Currently Seeking
-
-Full-time roles in:
-- Software Engineering
-- Generative AI
-- AI/ML
-- Cloud Computing
-
-Let's connect and build the future of technology together! 🚀 
