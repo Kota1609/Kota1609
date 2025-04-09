@@ -30,7 +30,7 @@ UNT Gen AI application implementation using AWS, ECR, Docker, Langchain, and Hug
 ## 📫 Let's Connect!
 
 - **Portfolio:** [srichandan-kota.vercel.app](https://srichandan-kota.vercel.app/)
-- **Linkedin:** [srichandan-kota](https://www.linkedin.com/in/kota-srichandan/))
+- **Linkedin:** [srichandan-kota](https://www.linkedin.com/in/kota-srichandan/)
 - **Email:** kotasc18@gmail.com
 - **Phone:** (940) 843-8548
 - **Location:** Anywhere in the USA
