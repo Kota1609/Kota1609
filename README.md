@@ -13,26 +13,17 @@ I'm a passionate Full Stack Engineer with over 5 years of professional experienc
 - **Software Engineer** @ Juspay (FinTech) (Jan 2022 - July 2023)
 - **Software Engineer** @ Clear Exam (EdTech) (July 2019 - Dec 2021)
 
-## 🛠️ Technical Skills
-
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Python
-- **AI/ML:** LLMs, Langchain, Huggingface, OpenAI, Anthropic
-- **Cloud:** AWS, Docker, Vercel
-- **Databases:** Pinecone, Airtable
-- **Other:** Git, Microservices Architecture
-
 ## 🏆 Featured Projects
 
-### [Agentic AI - Model Context Protocol](https://github.com/yourusername/agentic-ai)
+### [Agentic AI - Model Context Protocol](http://mcp-ai-music.vercel.app/)
 Implementation of Anthropic's Model Context Protocol where LLMs are used as agents to complete tasks
 - Next.js, React, Node.js, LLMs, Anthropic, Vercel
 
-### [UNT Course Guide](https://github.com/yourusername/unt-course-guide)
+### [UNT Course Guide](https://unt-course-guide.vercel.app/)
 Real-time UNT class availability tracker with AI Course ChatBot
 - Next.js, TypeScript, Tailwind CSS, Pinecone, Airtable, OpenAI
 
-### [Gen AI UNT](https://github.com/yourusername/gen-ai-unt)
+### [Gen AI UNT](https://github.com/Kota1609/RAG-With-AWS-Lambda-ECR-Docker-Langchain-Huggingface)
 UNT Gen AI application implementation using AWS, ECR, Docker, Langchain, and Huggingface
 - Python, AWS, Docker, Langchain, Huggingface, Llama, OpenAI
 
