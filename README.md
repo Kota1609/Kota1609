@@ -13,15 +13,15 @@ I'm a passionate Full Stack Engineer with over 5 years of professional experienc
 
 ## 🏆 Featured Projects
 
-### [Agentic AI - Model Context Protocol](https://github.com/yourusername/agentic-ai)
+### [Agentic AI - Model Context Protocol](http://mcp-ai-music.vercel.app/)
 Implementation of Anthropic's Model Context Protocol where LLMs are used as agents to complete tasks
 - Next.js, React, Node.js, LLMs, Anthropic, Vercel
 
-### [UNT Course Guide](https://github.com/yourusername/unt-course-guide)
+### [UNT Course Guide](https://unt-course-guide.vercel.app/)
 Real-time UNT class availability tracker with AI Course ChatBot
 - Next.js, TypeScript, Tailwind CSS, Pinecone, Airtable, OpenAI
 
-### [Gen AI UNT](https://github.com/yourusername/gen-ai-unt)
+### [Gen AI UNT](https://github.com/Kota1609/RAG-With-AWS-Lambda-ECR-Docker-Langchain-Huggingface)
 UNT Gen AI application implementation using AWS, ECR, Docker, Langchain, and Huggingface
 - Python, AWS, Docker, Langchain, Huggingface, Llama, OpenAI
 
