@@ -19,6 +19,10 @@ I'm a passionate Full Stack Engineer with over 5 years of professional experienc
 Implementation of Anthropic's Model Context Protocol where LLMs are used as agents to complete tasks
 - Next.js, React, Node.js, LLMs, Anthropic, Vercel
 
+### [ProtocolPulse Agentic AI](https://protocolpulse-ai.onrender.com/)
+Advanced Agentic AI research tool that generates comprehensive, structured analysis reports on blockchain protocols and DeFi platforms using AI
+- React, TypeScript, Tailwind CSS, Python, FastAPI, OpenAI, Google Gemini, LangGraph, Render
+
 ### [UNT Course Guide](https://unt-course-guide.vercel.app/)
 Real-time UNT class availability tracker with AI Course ChatBot
 - Next.js, TypeScript, Tailwind CSS, Pinecone, Airtable, OpenAI
