@@ -1,32 +1,45 @@
-# 👋 Hi, I'm Srichandan Kota
+  # Hi, I'm Srichandan Kota
 
-## 🌟 Check Out My Portfolio for my LIVE Projects: [srichandan-kota.vercel.app](https://srichandan-kota.vercel.app/)
+  **AI Engineer · Data Platform · Full-Stack** — Minneapolis, MN (open to relocation)
 
-## 🚀 Full Stack Engineer | AI Engineer | Cloud Architect
+  I build production AI agent systems and the data platforms underneath them — from ClickHouse pipelines and a DAG execution engine on Cloudflare to typed agent tools, evals, and the React/Next.js products on top. MS in Computer Science
+  (University of North Texas, 4.0 GPA).
 
-I'm a passionate Full Stack Engineer with over 5 years of professional experience, specializing in architecting scalable microservices and developing cutting-edge AI-powered applications. Holding a Master's in Computer Science, I bring expertise in backend, frontend, cloud infrastructure, and AI technologies.
+  🌐 **Portfolio:** [srichandan-kota.vercel.app](https://srichandan-kota.vercel.app/) · 💼 **LinkedIn:** [linkedin.com/in/srichandankota](https://www.linkedin.com/in/srichandankota/)
 
-## 💼 Professional Experience
+  ## What I've been building
 
-- **Generative AI Engineer** @ University of North Texas (Feb 2024 - Present)
-- **Software Engineer Intern** @ Idaho National Lab (May 2024 - Aug 2024)
-- **Software Engineer** @ Juspay (FinTech) (Jan 2022 - July 2023)
-- **Software Engineer** @ Clear Exam (EdTech) (July 2019 - Dec 2021)
+  - **Agent runtime** — 10 declarative agents with 73 typed tools, human-approved writes, prompt-injection guards, spend budgets, and multi-provider model fallback
+  - **Evals that gate releases** — 181 scripted flows, 7 grader types, CI replay, and cost-capped live runs; numbers grounded in code, never by the LLM
+  - **Unified data platform** — one dataset catalog, typed parameters, a DAG execution engine on Cloudflare containers, and versioned results (Supabase + R2), serving datasets, notebooks, sheets, charts and agents
+  - **Multi-agent software delivery** — ~20 parallel coding agents with reviewer agents, mutation-tested gates and automatic rollback
 
-## 🏆 Featured Projects
+  ## Experience
 
-### [Agentic AI - Model Context Protocol](http://mcp-ai-music.vercel.app/)
-Implementation of Anthropic's Model Context Protocol where LLMs are used as agents to complete tasks
-- Next.js, React, Node.js, LLMs, Anthropic, Vercel
+  - **Full Stack Software Engineer** @ QuantLink AI (Jun 2025 – Present)
+  - **Generative AI Engineer (part-time)** @ University of North Texas (Feb 2024 – May 2025)
+  - **Software Engineer Intern** @ Idaho National Laboratory (May 2024 – Aug 2024)
+  - **Software Engineer** @ Juspay, FinTech (Jan 2022 – Jul 2023)
 
-### [ProtocolPulse Agentic AI](https://protocolpulse-ai.onrender.com/)
-Advanced Agentic AI research tool that generates comprehensive, structured analysis reports on blockchain protocols and DeFi platforms using AI
-- React, TypeScript, Tailwind CSS, Python, FastAPI, OpenAI, Google Gemini, LangGraph, Render
+  ## Featured projects
 
-### [UNT Course Guide](https://unt-course-guide.vercel.app/)
-Real-time UNT class availability tracker with AI Course ChatBot
-- Next.js, TypeScript, Tailwind CSS, Pinecone, Airtable, OpenAI
+  ### [ProtocolPulse — Agentic research reports](https://protocolpulse-ai.onrender.com/)
+  A LangGraph agent that researches blockchain protocols and DeFi platforms and writes structured analysis reports.
+  `React` `TypeScript` `FastAPI` `LangGraph` `OpenAI` `Gemini`
 
-### [Gen AI UNT](https://github.com/Kota1609/RAG-With-AWS-Lambda-ECR-Docker-Langchain-Huggingface)
-UNT Gen AI application implementation using AWS, ECR, Docker, Langchain, and Huggingface
-- Python, AWS, Docker, Langchain, Huggingface, Llama, OpenAI
+  ### [Agentic AI with Model Context Protocol](http://mcp-ai-music.vercel.app/)
+  LLM agents that complete tasks through MCP tools (search, inventory checks, ordering) in a music-store demo.
+  `Next.js` `React` `Node.js` `Anthropic` `MCP`
+
+  ### [UNT Course Guide](https://unt-course-guide.vercel.app/)
+  Real-time class-availability tracker with a retrieval-augmented course chatbot.
+  `Next.js` `TypeScript` `Pinecone` `OpenAI`
+
+  ### [Serverless RAG on AWS](https://github.com/Kota1609/RAG-With-AWS-Lambda-ECR-Docker-Langchain-Huggingface)
+  Retrieval-augmented generation served from AWS Lambda using container images on ECR.
+  `Python` `AWS Lambda` `Docker` `LangChain` `Hugging Face`
+
+  ## Stack
+
+  **AI:** agent runtimes, tool calling, MCP, LLM evals, Vercel AI SDK, Langfuse · **Data:** ClickHouse, SQL, PostgreSQL, DuckDB, Polars, Arrow/Parquet · **Backend:** Python, FastAPI, Node.js · **Frontend:** TypeScript, React, Next.js ·
+  **Cloud:** Cloudflare (Workers, Containers, R2), AWS, Docker, GitHub Actions
